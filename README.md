@@ -18,7 +18,9 @@ In this you can see the Score of my game has increased.
 
 Finally Dinosaur got crashed by Dragon ---- BOOM --- GAME OVER - RELOAD TO PLAY AGAIN
 
-![idragon3](https://user-images.githubusercontent.com/87376487/127759921-d7772f5b-8441-4200-9d4a-f7c5e1a746f4.png)
+![idragon3](https://user-images.githubusercontent.com/87376487/127759967-5780c166-af95-4967-9d65-edf92f7e29fe.png)
+
+I hope you will enjoy playing this game. Thank You!
 
 
 
