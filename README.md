@@ -20,6 +20,10 @@ Finally Dinosaur got crashed by Dragon ---- BOOM --- GAME OVER - RELOAD TO PLAY 
 
 ![idragon3](https://user-images.githubusercontent.com/87376487/127759967-5780c166-af95-4967-9d65-edf92f7e29fe.png)
 
+### Video for reference 
+
+https://user-images.githubusercontent.com/87376487/136224004-d865c259-8eea-4c1f-b96f-572e31449457.mp4
+
 I hope you will enjoy playing this game. Thank You!
 
 
